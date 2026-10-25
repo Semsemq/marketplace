@@ -12,7 +12,7 @@
     "@readme/eslint-config": "^14.6.0",
     "eslint": "^8.57.1",
     "prettier": "^3.5.3",
-    "vitest": "^3.0.9"
+    "vitest": "^5.0.5"
   },
   "prettier": "@readme/eslint-config/prettier"
 }
